@@ -10,15 +10,15 @@ plugins {
 }
 
 android {
-  namespace = "com.example"
+  namespace = "com.rumpadhar.splitb"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "com.aistudio.splitb.uqzrwv"
+    applicationId = "com.rumpadhar.splitb"
     minSdk = 24
     targetSdk = 36
     versionCode = 1
-    versionName = "1.0"
+    versionName = "1.0.0"
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
   }
