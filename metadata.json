@@ -1,0 +1,6 @@
+{
+  "name": "SplitB",
+  "description": "A full-stack app to split expenses among a group of people for friends, roommates, and travel groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
